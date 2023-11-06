@@ -73,6 +73,9 @@
 .input{
   width: 120px;
   margin: 10px 20px;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
 .create-your-own{
@@ -84,6 +87,7 @@
   text-align: center;
   background-color: #f0f0f5;
   padding: 10px;
+  cursor: pointer;
 }
 
 
